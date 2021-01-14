@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BnKCashRegister:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/BnKCashRegister_jar2</output-path>
+    <root id="archive" name="BnKCashRegister.jar">
+      <element id="module-output" name="BnKCashRegister" />
+    </root>
+  </artifact>
+</component>
